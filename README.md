@@ -1,3 +1,3 @@
 # Vanyar666
-Repo official Vanyar
+Repo official
 [   ]
